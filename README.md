@@ -1,6 +1,6 @@
 # Projects-linux
 # Description-
-	Folder holds all the files to completed lab 2 of CE-450
+	Folder holds all the files of CE-450
 # Projects-
 BirthdayCard 	
 	Android project to display a BirthdayCard
@@ -12,3 +12,7 @@ TwoActivites
 	Android project for 2.1
 TwoActivitesLifeCycle
 	Android project for 2.2
+PracticeSet2
+	Android project for udacity Interactive lab 
+SimpleCalcTest
+	copied from google for debugging lab 3
