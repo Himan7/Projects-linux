@@ -1,148 +1,148 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\lucky\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\SimpleCalcTest\app\src\main\AndroidManifest.xml:17:1-34:12
-INJECTED from C:\Users\lucky\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\SimpleCalcTest\app\src\main\AndroidManifest.xml:17:1-34:12
-INJECTED from C:\Users\lucky\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\SimpleCalcTest\app\src\main\AndroidManifest.xml:17:1-34:12
-INJECTED from C:\Users\lucky\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\SimpleCalcTest\app\src\main\AndroidManifest.xml:17:1-34:12
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\4e3f505c72c4bf11c00a6c3a75e31154\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\12e88f62201d203b7c7f858bf2d3b0ff\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\bcfb1553ef0dcb545c129c62fee06163\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\ebaee68632fe4b676aa28dec14094cd3\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\305c7668fe5c660fc97acf5cc52a232f\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\9b7df6b44abf249470d204723acf7daf\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\671ddd9e48e0e3bd021c44589001a130\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\fd17b42b7598f9423e9c0164409cd41c\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\2b5c3b8c18c268bc296ea85d03bccbfd\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\dc49ba1d54c2ac0b288dc2d469e86519\AndroidManifest.xml:17:1-31:12
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\241676a2b7e4577d768fb7266bc3e256\AndroidManifest.xml:17:1-30:12
-INJECTED from C:\Users\lucky\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\SimpleCalcTest\app\src\main\AndroidManifest.xml:17:1-34:12
-INJECTED from C:\Users\lucky\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\SimpleCalcTest\app\src\main\AndroidManifest.xml:17:1-34:12
-INJECTED from C:\Users\lucky\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\SimpleCalcTest\app\src\main\AndroidManifest.xml:17:1-34:12
+ADDED from /media/skipper-win/Data/Projects/Projects-linux/SimpleCalcTest/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /media/skipper-win/Data/Projects/Projects-linux/SimpleCalcTest/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /media/skipper-win/Data/Projects/Projects-linux/SimpleCalcTest/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /media/skipper-win/Data/Projects/Projects-linux/SimpleCalcTest/app/src/main/AndroidManifest.xml:17:1-34:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/a4511ac1d729ea281900352a33ce991b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/f95694de48b2d1a9fb4884bfcc4b76f9/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/8e714fd67a152036d0e61f6fac9af8e7/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/939db0793e1fda4e2c794b80f6c8d808/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/50512c259d1b05e14350b7cd93825cbb/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/de2b995d188c3a7390bf0b0f16a46ebf/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/b872cc04e38ce962db9dcb92777f05a5/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/aab5600ab216042e6f50705a5e3c0ea3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/2a7c4a0d1c4eb16b52489787b6bae74b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/34059eb2b40bccb649d2da04e262ec15/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/f8639c0198ced9c8ba175cd95b42c8c3/AndroidManifest.xml:17:1-30:12
+INJECTED from /media/skipper-win/Data/Projects/Projects-linux/SimpleCalcTest/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /media/skipper-win/Data/Projects/Projects-linux/SimpleCalcTest/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /media/skipper-win/Data/Projects/Projects-linux/SimpleCalcTest/app/src/main/AndroidManifest.xml:17:1-34:12
 	package
-		ADDED from C:\Users\lucky\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\SimpleCalcTest\app\src\main\AndroidManifest.xml:18:5-49
-		INJECTED from C:\Users\lucky\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\SimpleCalcTest\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\lucky\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\SimpleCalcTest\app\src\main\AndroidManifest.xml
+		ADDED from /media/skipper-win/Data/Projects/Projects-linux/SimpleCalcTest/app/src/main/AndroidManifest.xml:18:5-49
+		INJECTED from /media/skipper-win/Data/Projects/Projects-linux/SimpleCalcTest/app/src/main/AndroidManifest.xml
+		INJECTED from /media/skipper-win/Data/Projects/Projects-linux/SimpleCalcTest/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\lucky\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\SimpleCalcTest\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\lucky\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\SimpleCalcTest\app\src\main\AndroidManifest.xml:17:1-34:12
-		INJECTED from C:\Users\lucky\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\SimpleCalcTest\app\src\main\AndroidManifest.xml
+		INJECTED from /media/skipper-win/Data/Projects/Projects-linux/SimpleCalcTest/app/src/main/AndroidManifest.xml
+		ADDED from /media/skipper-win/Data/Projects/Projects-linux/SimpleCalcTest/app/src/main/AndroidManifest.xml:17:1-34:12
+		INJECTED from /media/skipper-win/Data/Projects/Projects-linux/SimpleCalcTest/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\lucky\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\SimpleCalcTest\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\lucky\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\SimpleCalcTest\app\src\main\AndroidManifest.xml:17:1-34:12
-		INJECTED from C:\Users\lucky\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\SimpleCalcTest\app\src\main\AndroidManifest.xml
+		INJECTED from /media/skipper-win/Data/Projects/Projects-linux/SimpleCalcTest/app/src/main/AndroidManifest.xml
+		ADDED from /media/skipper-win/Data/Projects/Projects-linux/SimpleCalcTest/app/src/main/AndroidManifest.xml:17:1-34:12
+		INJECTED from /media/skipper-win/Data/Projects/Projects-linux/SimpleCalcTest/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\lucky\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\SimpleCalcTest\app\src\main\AndroidManifest.xml:17:11-69
+		ADDED from /media/skipper-win/Data/Projects/Projects-linux/SimpleCalcTest/app/src/main/AndroidManifest.xml:17:11-69
 application
-ADDED from C:\Users\lucky\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\SimpleCalcTest\app\src\main\AndroidManifest.xml:20:5-32:19
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\4e3f505c72c4bf11c00a6c3a75e31154\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\4e3f505c72c4bf11c00a6c3a75e31154\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\12e88f62201d203b7c7f858bf2d3b0ff\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\12e88f62201d203b7c7f858bf2d3b0ff\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\bcfb1553ef0dcb545c129c62fee06163\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\bcfb1553ef0dcb545c129c62fee06163\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\ebaee68632fe4b676aa28dec14094cd3\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\ebaee68632fe4b676aa28dec14094cd3\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\305c7668fe5c660fc97acf5cc52a232f\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\305c7668fe5c660fc97acf5cc52a232f\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\9b7df6b44abf249470d204723acf7daf\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\9b7df6b44abf249470d204723acf7daf\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\671ddd9e48e0e3bd021c44589001a130\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\671ddd9e48e0e3bd021c44589001a130\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\fd17b42b7598f9423e9c0164409cd41c\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\fd17b42b7598f9423e9c0164409cd41c\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\2b5c3b8c18c268bc296ea85d03bccbfd\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\2b5c3b8c18c268bc296ea85d03bccbfd\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\dc49ba1d54c2ac0b288dc2d469e86519\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\dc49ba1d54c2ac0b288dc2d469e86519\AndroidManifest.xml:25:5-29:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\241676a2b7e4577d768fb7266bc3e256\AndroidManifest.xml:24:5-28:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\241676a2b7e4577d768fb7266bc3e256\AndroidManifest.xml:24:5-28:19
+ADDED from /media/skipper-win/Data/Projects/Projects-linux/SimpleCalcTest/app/src/main/AndroidManifest.xml:20:5-32:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/a4511ac1d729ea281900352a33ce991b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/a4511ac1d729ea281900352a33ce991b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/f95694de48b2d1a9fb4884bfcc4b76f9/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/f95694de48b2d1a9fb4884bfcc4b76f9/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/8e714fd67a152036d0e61f6fac9af8e7/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/8e714fd67a152036d0e61f6fac9af8e7/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/939db0793e1fda4e2c794b80f6c8d808/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/939db0793e1fda4e2c794b80f6c8d808/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/50512c259d1b05e14350b7cd93825cbb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/50512c259d1b05e14350b7cd93825cbb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/de2b995d188c3a7390bf0b0f16a46ebf/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/de2b995d188c3a7390bf0b0f16a46ebf/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/b872cc04e38ce962db9dcb92777f05a5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/b872cc04e38ce962db9dcb92777f05a5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/aab5600ab216042e6f50705a5e3c0ea3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/aab5600ab216042e6f50705a5e3c0ea3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/2a7c4a0d1c4eb16b52489787b6bae74b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/2a7c4a0d1c4eb16b52489787b6bae74b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/34059eb2b40bccb649d2da04e262ec15/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/34059eb2b40bccb649d2da04e262ec15/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/f8639c0198ced9c8ba175cd95b42c8c3/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/f8639c0198ced9c8ba175cd95b42c8c3/AndroidManifest.xml:24:5-28:19
 	android:supportsRtl
-		ADDED from C:\Users\lucky\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\SimpleCalcTest\app\src\main\AndroidManifest.xml:24:9-35
+		ADDED from /media/skipper-win/Data/Projects/Projects-linux/SimpleCalcTest/app/src/main/AndroidManifest.xml:24:9-35
 	android:label
-		ADDED from C:\Users\lucky\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\SimpleCalcTest\app\src\main\AndroidManifest.xml:23:9-41
+		ADDED from /media/skipper-win/Data/Projects/Projects-linux/SimpleCalcTest/app/src/main/AndroidManifest.xml:23:9-41
 	android:icon
-		ADDED from C:\Users\lucky\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\SimpleCalcTest\app\src\main\AndroidManifest.xml:22:9-43
+		ADDED from /media/skipper-win/Data/Projects/Projects-linux/SimpleCalcTest/app/src/main/AndroidManifest.xml:22:9-43
 	android:allowBackup
-		ADDED from C:\Users\lucky\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\SimpleCalcTest\app\src\main\AndroidManifest.xml:21:9-35
+		ADDED from /media/skipper-win/Data/Projects/Projects-linux/SimpleCalcTest/app/src/main/AndroidManifest.xml:21:9-35
 	android:theme
-		ADDED from C:\Users\lucky\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\SimpleCalcTest\app\src\main\AndroidManifest.xml:25:9-40
+		ADDED from /media/skipper-win/Data/Projects/Projects-linux/SimpleCalcTest/app/src/main/AndroidManifest.xml:25:9-40
 activity#com.example.android.SimpleCalcTest.MainActivity
-ADDED from C:\Users\lucky\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\SimpleCalcTest\app\src\main\AndroidManifest.xml:26:9-31:20
+ADDED from /media/skipper-win/Data/Projects/Projects-linux/SimpleCalcTest/app/src/main/AndroidManifest.xml:26:9-31:20
 	android:name
-		ADDED from C:\Users\lucky\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\SimpleCalcTest\app\src\main\AndroidManifest.xml:26:19-81
+		ADDED from /media/skipper-win/Data/Projects/Projects-linux/SimpleCalcTest/app/src/main/AndroidManifest.xml:26:19-81
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\lucky\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\SimpleCalcTest\app\src\main\AndroidManifest.xml:27:13-30:29
+ADDED from /media/skipper-win/Data/Projects/Projects-linux/SimpleCalcTest/app/src/main/AndroidManifest.xml:27:13-30:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\lucky\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\SimpleCalcTest\app\src\main\AndroidManifest.xml:28:17-69
+ADDED from /media/skipper-win/Data/Projects/Projects-linux/SimpleCalcTest/app/src/main/AndroidManifest.xml:28:17-69
 	android:name
-		ADDED from C:\Users\lucky\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\SimpleCalcTest\app\src\main\AndroidManifest.xml:28:25-66
+		ADDED from /media/skipper-win/Data/Projects/Projects-linux/SimpleCalcTest/app/src/main/AndroidManifest.xml:28:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\lucky\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\SimpleCalcTest\app\src\main\AndroidManifest.xml:29:17-77
+ADDED from /media/skipper-win/Data/Projects/Projects-linux/SimpleCalcTest/app/src/main/AndroidManifest.xml:29:17-77
 	android:name
-		ADDED from C:\Users\lucky\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\SimpleCalcTest\app\src\main\AndroidManifest.xml:29:27-74
+		ADDED from /media/skipper-win/Data/Projects/Projects-linux/SimpleCalcTest/app/src/main/AndroidManifest.xml:29:27-74
 uses-sdk
-INJECTED from C:\Users\lucky\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\SimpleCalcTest\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\lucky\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\SimpleCalcTest\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\lucky\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\SimpleCalcTest\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\4e3f505c72c4bf11c00a6c3a75e31154\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\4e3f505c72c4bf11c00a6c3a75e31154\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\12e88f62201d203b7c7f858bf2d3b0ff\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\12e88f62201d203b7c7f858bf2d3b0ff\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\bcfb1553ef0dcb545c129c62fee06163\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\bcfb1553ef0dcb545c129c62fee06163\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\ebaee68632fe4b676aa28dec14094cd3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\ebaee68632fe4b676aa28dec14094cd3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\305c7668fe5c660fc97acf5cc52a232f\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\305c7668fe5c660fc97acf5cc52a232f\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\9b7df6b44abf249470d204723acf7daf\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\9b7df6b44abf249470d204723acf7daf\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\671ddd9e48e0e3bd021c44589001a130\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\671ddd9e48e0e3bd021c44589001a130\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\fd17b42b7598f9423e9c0164409cd41c\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\fd17b42b7598f9423e9c0164409cd41c\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\2b5c3b8c18c268bc296ea85d03bccbfd\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\2b5c3b8c18c268bc296ea85d03bccbfd\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\dc49ba1d54c2ac0b288dc2d469e86519\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\dc49ba1d54c2ac0b288dc2d469e86519\AndroidManifest.xml:21:5-23:58
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\241676a2b7e4577d768fb7266bc3e256\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\241676a2b7e4577d768fb7266bc3e256\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Users\lucky\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\SimpleCalcTest\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\lucky\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\SimpleCalcTest\app\src\main\AndroidManifest.xml
+INJECTED from /media/skipper-win/Data/Projects/Projects-linux/SimpleCalcTest/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /media/skipper-win/Data/Projects/Projects-linux/SimpleCalcTest/app/src/main/AndroidManifest.xml
+INJECTED from /media/skipper-win/Data/Projects/Projects-linux/SimpleCalcTest/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/a4511ac1d729ea281900352a33ce991b/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/a4511ac1d729ea281900352a33ce991b/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/f95694de48b2d1a9fb4884bfcc4b76f9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/f95694de48b2d1a9fb4884bfcc4b76f9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/8e714fd67a152036d0e61f6fac9af8e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/8e714fd67a152036d0e61f6fac9af8e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/939db0793e1fda4e2c794b80f6c8d808/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/939db0793e1fda4e2c794b80f6c8d808/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/50512c259d1b05e14350b7cd93825cbb/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/50512c259d1b05e14350b7cd93825cbb/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/de2b995d188c3a7390bf0b0f16a46ebf/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/de2b995d188c3a7390bf0b0f16a46ebf/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/b872cc04e38ce962db9dcb92777f05a5/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/b872cc04e38ce962db9dcb92777f05a5/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/aab5600ab216042e6f50705a5e3c0ea3/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/aab5600ab216042e6f50705a5e3c0ea3/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/2a7c4a0d1c4eb16b52489787b6bae74b/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/2a7c4a0d1c4eb16b52489787b6bae74b/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/34059eb2b40bccb649d2da04e262ec15/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/34059eb2b40bccb649d2da04e262ec15/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/f8639c0198ced9c8ba175cd95b42c8c3/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/f8639c0198ced9c8ba175cd95b42c8c3/AndroidManifest.xml:20:5-22:41
+INJECTED from /media/skipper-win/Data/Projects/Projects-linux/SimpleCalcTest/app/src/main/AndroidManifest.xml
+INJECTED from /media/skipper-win/Data/Projects/Projects-linux/SimpleCalcTest/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\4e3f505c72c4bf11c00a6c3a75e31154\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/a4511ac1d729ea281900352a33ce991b/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from C:\Users\lucky\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\SimpleCalcTest\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\lucky\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\SimpleCalcTest\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\lucky\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\SimpleCalcTest\app\src\main\AndroidManifest.xml
+		INJECTED from /media/skipper-win/Data/Projects/Projects-linux/SimpleCalcTest/app/src/main/AndroidManifest.xml
+		ADDED from /media/skipper-win/Data/Projects/Projects-linux/SimpleCalcTest/app/src/main/AndroidManifest.xml
+		INJECTED from /media/skipper-win/Data/Projects/Projects-linux/SimpleCalcTest/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\lucky\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\SimpleCalcTest\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\lucky\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\SimpleCalcTest\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\lucky\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\SimpleCalcTest\app\src\main\AndroidManifest.xml
+		INJECTED from /media/skipper-win/Data/Projects/Projects-linux/SimpleCalcTest/app/src/main/AndroidManifest.xml
+		ADDED from /media/skipper-win/Data/Projects/Projects-linux/SimpleCalcTest/app/src/main/AndroidManifest.xml
+		INJECTED from /media/skipper-win/Data/Projects/Projects-linux/SimpleCalcTest/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\4e3f505c72c4bf11c00a6c3a75e31154\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\bcfb1553ef0dcb545c129c62fee06163\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\bcfb1553ef0dcb545c129c62fee06163\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\ebaee68632fe4b676aa28dec14094cd3\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\ebaee68632fe4b676aa28dec14094cd3\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\305c7668fe5c660fc97acf5cc52a232f\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\305c7668fe5c660fc97acf5cc52a232f\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\9b7df6b44abf249470d204723acf7daf\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\9b7df6b44abf249470d204723acf7daf\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\671ddd9e48e0e3bd021c44589001a130\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\671ddd9e48e0e3bd021c44589001a130\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\fd17b42b7598f9423e9c0164409cd41c\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\fd17b42b7598f9423e9c0164409cd41c\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\2b5c3b8c18c268bc296ea85d03bccbfd\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\2b5c3b8c18c268bc296ea85d03bccbfd\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\dc49ba1d54c2ac0b288dc2d469e86519\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\dc49ba1d54c2ac0b288dc2d469e86519\AndroidManifest.xml:26:9-28:38
+ADDED from [com.android.support:appcompat-v7:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/a4511ac1d729ea281900352a33ce991b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/8e714fd67a152036d0e61f6fac9af8e7/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/8e714fd67a152036d0e61f6fac9af8e7/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/939db0793e1fda4e2c794b80f6c8d808/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/939db0793e1fda4e2c794b80f6c8d808/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/50512c259d1b05e14350b7cd93825cbb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/50512c259d1b05e14350b7cd93825cbb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/de2b995d188c3a7390bf0b0f16a46ebf/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/de2b995d188c3a7390bf0b0f16a46ebf/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/b872cc04e38ce962db9dcb92777f05a5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/b872cc04e38ce962db9dcb92777f05a5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/aab5600ab216042e6f50705a5e3c0ea3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/aab5600ab216042e6f50705a5e3c0ea3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/2a7c4a0d1c4eb16b52489787b6bae74b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/2a7c4a0d1c4eb16b52489787b6bae74b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/34059eb2b40bccb649d2da04e262ec15/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/34059eb2b40bccb649d2da04e262ec15/AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\4e3f505c72c4bf11c00a6c3a75e31154\AndroidManifest.xml:28:13-35
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/a4511ac1d729ea281900352a33ce991b/AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\4e3f505c72c4bf11c00a6c3a75e31154\AndroidManifest.xml:27:13-51
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/a4511ac1d729ea281900352a33ce991b/AndroidManifest.xml:27:13-51
 meta-data#android.arch.lifecycle.VERSION
-ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\241676a2b7e4577d768fb7266bc3e256\AndroidManifest.xml:25:9-27:47
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/f8639c0198ced9c8ba175cd95b42c8c3/AndroidManifest.xml:25:9-27:47
 	android:value
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\241676a2b7e4577d768fb7266bc3e256\AndroidManifest.xml:27:13-44
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/f8639c0198ced9c8ba175cd95b42c8c3/AndroidManifest.xml:27:13-44
 	android:name
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\lucky\.gradle\caches\transforms-2\files-2.1\241676a2b7e4577d768fb7266bc3e256\AndroidManifest.xml:26:13-58
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/skipper-win/.gradle/caches/transforms-2/files-2.1/f8639c0198ced9c8ba175cd95b42c8c3/AndroidManifest.xml:26:13-58
